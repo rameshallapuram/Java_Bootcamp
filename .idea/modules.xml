@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment1_BasicProblems/Assignment1_BasicProblems.iml" filepath="$PROJECT_DIR$/Assignments/Assignment1_BasicProblems/Assignment1_BasicProblems.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignments/Assignment_2/Assignment_2.iml" filepath="$PROJECT_DIR$/Assignments/Assignment_2/Assignment_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/Assignments/Assignments.iml" filepath="$PROJECT_DIR$/Assignments/Assignments.iml" />
       <module fileurl="file://$PROJECT_DIR$/Conditions_loops/Conditions and loops.iml" filepath="$PROJECT_DIR$/Conditions_loops/Conditions and loops.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_Bootcamp.iml" filepath="$PROJECT_DIR$/Java_Bootcamp.iml" />
