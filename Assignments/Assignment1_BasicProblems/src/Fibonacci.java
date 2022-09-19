@@ -1,4 +1,4 @@
-//To calculate Fibonacci Series up to n numbers.
+package Assignments.Assignment1_BasicProblems.src;//To calculate Fibonacci Series up to n numbers.
 
 public class Fibonacci {
     public static void main(String[] args) {
