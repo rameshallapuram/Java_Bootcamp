@@ -27,7 +27,7 @@ public class PrimeInRange {
                 }
             }
             if (flag == 1)
-                System.out.println(i);
+                System.out.print(i + " ");
         }
     }
 }
