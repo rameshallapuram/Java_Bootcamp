@@ -9,17 +9,19 @@ public class SearchInString {
         name = name.toLowerCase();
         System.out.print("Enter the letter to search: ");
         char target = sc.next().charAt(0);
-        search(name, target);
+        System.out.println(search(name, target));
 
     }
 
-    static boolean search(String str, char target){
-        if(str.length() == 0){
+    static boolean search(String str, char target) {
+        if (str.length() == 0) {
             return false;
         }
-        for(int i =0; i<str.length(); i++){
-            if(target == str.charAt(i)){
-                System.out.println("letter present at "+i+" index");
+//        for(int i =0; i<str.length(); i++){
+//            if(target == str.charAt(i)){
+//                System.out.println("letter present at "+i+" index");
+        for (char ch : str.toCharArray()) {
+            if (ch == target) {
                 return true;
             }
         }
